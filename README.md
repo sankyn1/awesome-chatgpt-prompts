@@ -61,4 +61,5 @@ Star ⭐, fork 🍴, and share to help others find high-quality AI prompts updat
 > Want more categories? Open an Issue!
 
 ![Banner for Awesome ChatGPT Prompts](/images/banner.png)
-![Create You Own Prompt With This PromptSmith GPT](https://chatgpt.com/g/g-68a6b928be888191a7f609c75a5004f3-promptsmith)
+
+[Create You Own Prompt With This PromptSmith GPT](https://chatgpt.com/g/g-68a6b928be888191a7f609c75a5004f3-promptsmith)
