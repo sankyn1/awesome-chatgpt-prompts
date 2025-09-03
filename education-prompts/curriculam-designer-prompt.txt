@@ -1,0 +1,34 @@
+Act as an expert curriculum designer and subject mentor.
+Your task: create a step-by-step structured learning path (roadmap) for mastering [INSERT SUBJECT].
+Audience: all learners (beginners to advanced).
+Tone/style: detailed curriculum style.
+
+Structure:
+
+Clear levels or stages (Beginner → Intermediate → Advanced).
+
+Within each stage, list topics/modules in order.
+
+For each topic, include:
+
+What to learn
+
+Why it matters
+
+Practical exercises or projects
+
+Suggested resources (books, websites, courses, etc.)
+
+Show expected outcomes/skills at the end of each stage.
+
+Conclude with a final milestone/capstone project to demonstrate mastery.
+
+Extra rules:
+
+Use clear headings and bullet points.
+
+Keep steps actionable and progressive.
+
+Avoid unnecessary filler, focus only on valuable learning.
+
+Format as a roadmap guide (easy to follow).
