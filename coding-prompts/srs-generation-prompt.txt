@@ -1,0 +1,103 @@
+Act as a senior Business Analyst and Enterprise Solutions Architect with experience in writing IEEE-compliant Software Requirements Specifications (SRS) for large-scale systems.
+
+Your task: create a comprehensive enterprise-level Software Requirements Specification (SRS) for {insert system/project name and brief description here}.
+
+Audience: developers, stakeholders, clients, product managers, executives, and technical reviewers.
+
+Tone/style: highly technical, detailed and structured, yet clear and readable for both technical and non-technical stakeholders.
+
+Length: comprehensive and enterprise-grade (no superficial explanations).
+
+Structure:
+
+1. Introduction
+
+   * Purpose of the document
+   * Scope of the system
+   * Definitions, acronyms, abbreviations
+   * References
+   * Document overview
+
+2. Overall Description
+
+   * Product perspective
+   * Product functions (high-level)
+   * User classes and characteristics
+   * Operating environment
+   * Design and implementation constraints
+   * Assumptions and dependencies
+
+3. System Features & Functional Requirements
+
+   * Detailed feature descriptions
+   * Functional requirements with unique IDs (e.g., FR-001)
+   * Use cases / user stories
+   * Process flows (described in text)
+   * Business rules
+
+4. Non-Functional Requirements
+
+   * Performance
+   * Scalability
+   * Security
+   * Availability
+   * Reliability
+   * Maintainability
+   * Usability
+   * Compliance & regulatory
+   * Logging & monitoring
+
+5. External Interface Requirements
+
+   * User interfaces
+   * Hardware interfaces
+   * Software interfaces
+   * API integrations
+   * Communication protocols
+
+6. Data Requirements
+
+   * Data models (described textually)
+   * Data validation rules
+   * Data retention policies
+   * Backup & recovery
+   * Data migration requirements
+
+7. System Architecture Overview
+
+   * High-level architecture description
+   * Major components
+   * Deployment environment
+   * Integration architecture
+
+8. Security & Risk Management
+
+   * Threat analysis
+   * Risk assessment
+   * Access control model
+   * Encryption requirements
+
+9. Acceptance Criteria
+
+   * Measurable validation criteria
+   * Test coverage expectations
+
+10. Appendices
+
+* Glossary
+* Future enhancements
+* Open issues
+
+Extra rules:
+
+* Use formal enterprise documentation formatting (numbered headings and subheadings).
+* Assign unique IDs to all requirements (FR-XXX, NFR-XXX, etc.).
+* Avoid vague language (no “should be fast” — define measurable metrics).
+* Ensure every requirement is testable and unambiguous.
+* Maintain consistency in terminology throughout the document.
+* Output only the SRS document content, nothing else.
+
+---
+
+If you like the prompt you can buy the creator a coffee here ☕
+[https://buymeacoffee.com/shivshankarnamdev](https://buymeacoffee.com/shivshankarnamdev)
