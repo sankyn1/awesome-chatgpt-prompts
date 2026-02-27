@@ -4,6 +4,7 @@ Welcome to the **Awesome ChatGPT Prompts** repository!
 Discover, clone, and use the most in-demand, SEO-optimized prompts for ChatGPT, Gemini, Claude, and more.  
 This repo is updated DAILY with unique prompts for **SEO, business, developing, writing, education, and marketing**.  
 Join thousands of users leveraging these prompts to supercharge their workflow and creativity!
+
 [Create You Own Prompt With This PromptSmith GPT](https://chatgpt.com/g/g-68a6b928be888191a7f609c75a5004f3-promptsmith)
 
 
