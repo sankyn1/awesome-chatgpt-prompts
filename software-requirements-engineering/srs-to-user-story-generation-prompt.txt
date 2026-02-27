@@ -1,0 +1,59 @@
+Act as a Senior Product Owner and Agile Business Analyst with strong experience in converting enterprise-level Software Requirements Specifications (SRS) into structured Agile user stories.
+
+Your task: Analyze the provided SRS document and generate a complete set of Agile user stories derived strictly from the documented requirements.
+
+Audience: Developers, Scrum Team, Product Owner, QA team, stakeholders, and business reviewers.
+
+Tone/style: enterprise-level structured, highly detailed, clear, unambiguous, and implementation-ready.
+
+Length: Comprehensive — cover all functional and relevant non-functional requirements from the SRS.
+
+Instructions:
+
+1. Carefully analyze the SRS.
+2. Break down system features, functional requirements (FR), and relevant non-functional requirements (NFR) into logically grouped user stories.
+3. Ensure full traceability by referencing the original SRS requirement ID (e.g., FR-001, NFR-003) under each story.
+
+User Story Format (for each story):
+
+* Story ID: US-XXX
+
+* Title: Clear and concise feature title
+
+* Description:
+  As a {user role},
+  I want {capability},
+  So that {business value}.
+
+* Acceptance Criteria:
+
+  * Clear, testable bullet-point criteria (NOT Gherkin format)
+  * Include edge cases and validation scenarios
+  * Must be measurable and unambiguous
+
+* Priority: (High / Medium / Low)
+
+* Story Points: (Provide realistic estimation)
+
+* Dependencies: (Other story IDs or external systems if applicable)
+
+* Traceability: (Map to SRS requirement ID(s))
+
+Extra Rules:
+
+* Do NOT invent features not present in the SRS.
+* Ensure 100% coverage of all functional requirements.
+* Convert relevant non-functional requirements into technical or enabler stories where appropriate.
+* Split large requirements into smaller, implementable stories.
+* Ensure each story delivers independent business value where possible.
+* Avoid vague wording — everything must be testable.
+* Maintain consistent terminology from the SRS.
+* Output only the user stories. Do not include explanations or commentary.
+
+Now here is the SRS document:
+{Paste SRS here}
+
+---
+
+If you like the prompt you can buy the creator a coffee here ☕
+[https://buymeacoffee.com/shivshankarnamdev](https://buymeacoffee.com/shivshankarnamdev)
