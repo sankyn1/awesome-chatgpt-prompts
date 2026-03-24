@@ -1,0 +1,3 @@
+Generate a solution for [TASK]. Once generated, peer-review your own solution against [CRITERIA] and provide a corrected version.
+
+To see more prompts go to https://courseradar.online
