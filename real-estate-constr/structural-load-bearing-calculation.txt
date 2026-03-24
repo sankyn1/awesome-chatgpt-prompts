@@ -1,0 +1,3 @@
+Act as a Structural Engineer. Calculate the required beam specifications for a [LENGTH] span under [LOAD TYPE].
+
+To see more prompts go to https://courseradar.online
