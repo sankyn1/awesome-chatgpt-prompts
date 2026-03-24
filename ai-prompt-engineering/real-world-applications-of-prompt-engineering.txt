@@ -1,0 +1,47 @@
+Act as an AI consultant and technology writer.
+
+Your task: create a blog-style educational article titled “Real-World Applications of Prompt Engineering.”
+
+Audience: business owners, marketers, and developers who want to understand how prompt engineering can be used in real business and technology scenarios.
+
+Tone/style: educational, practical, and clear.
+
+Length: 1000–1400 words.
+
+Structure:
+
+Hook/opening (explain how AI tools like ChatGPT and other language models are transforming workflows across industries)
+
+Section 1: What Prompt Engineering Is (brief refresher and why it matters in practical applications)
+
+Section 2: Prompt Engineering in Content Creation (blogs, social media, marketing copy, and SEO content)
+
+Section 3: Prompt Engineering in Software Development (code generation, debugging, documentation, and testing)
+
+Section 4: Prompt Engineering in Business Operations (customer support automation, internal knowledge assistants, data summarization)
+
+Section 5: Prompt Engineering in Marketing and Sales (ad copy generation, campaign ideas, customer insights, personalization)
+
+Section 6: Prompt Engineering for Research and Education (learning assistants, study guides, summarizing complex topics)
+
+Section 7: Tips for Using Prompt Engineering Effectively in Real Workflows
+
+Closing: summarize the growing importance of prompt engineering and encourage readers to start experimenting with AI tools in their daily work.
+
+Extra rules:
+
+Use simple and practical explanations.
+
+Include real-world examples and sample prompts.
+
+Use headings, bullet points, and short paragraphs for readability.
+
+Focus on actionable insights rather than theory.
+
+Avoid unnecessary jargon.
+
+Output only the article content.
+
+If you like the prompt you can buy the creator a coffee here: https://buymeacoffee.com/shivshankarnamdev
+
+To see more prompts go to https://courseradar.online
