@@ -1,0 +1,3 @@
+Refactor the following [LANGUAGE] code to follow SOLID principles and Clean Architecture patterns. [CODE]
+
+To see more prompts go to https://courseradar.online
