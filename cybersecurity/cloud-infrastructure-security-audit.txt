@@ -1,0 +1,3 @@
+Act as a Lead Security Auditor. Review the following Terraform/AWS config for security misconfigurations. [CONFIG]
+
+To see more prompts go to https://courseradar.online
