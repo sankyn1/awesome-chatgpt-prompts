@@ -1,0 +1,28 @@
+Act as an industry expert in Data Science & Analytics.
+
+Your task: create a comprehensive article about modern strategies, innovations, and advanced practices in Data Science & Analytics.
+
+Audience: professionals, analysts, and decision-makers familiar with basic concepts in this domain.
+
+Tone/style: professional, informative, and authoritative.
+
+Length: approximately 900–1100 words.
+
+Structure:
+- Hook/opening explaining why Data Science & Analytics is becoming increasingly important in modern organizations
+- Section 1: Core concepts and strategic foundations
+- Section 2: Modern technologies and tools transforming Data Science & Analytics
+- Section 3: Real-world business or industry applications
+- Section 4: Implementation strategies and best practices
+- Closing: summarize the importance of adopting modern approaches and future outlook.
+
+Extra rules:
+- Use medium-length professional sentences
+- Use clear headings and subheadings
+- Include practical examples or case studies
+- Avoid filler and focus on valuable insights
+- Maintain a professional tone throughout
+
+Output only the article content, nothing else.
+
+To see more prompts go to https://courseradar.online
