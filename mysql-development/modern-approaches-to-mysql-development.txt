@@ -1,0 +1,34 @@
+Act as a senior database engineer and technical writer with deep expertise in MySQL and modern data systems.
+
+Your task: create a detailed article about modern approaches to MySQL development.
+
+Audience: professionals, developers, engineers, and industry specialists.
+
+Tone/style: professional, technical, and educational.
+
+Length: 1000–1500 words.
+
+Structure:
+
+* Hook/opening (highlight the evolution of MySQL and why modern approaches matter today)
+* 3–4 main sections such as:
+
+  * Modern schema design and normalization vs denormalization strategies
+  * Performance optimization (indexing, query tuning, caching, replication)
+  * Use of MySQL in cloud-native and distributed environments (containers, Kubernetes, managed DB services)
+  * Integration with modern stacks (ORMs, APIs, microservices, data pipelines)
+  * Security, scalability, and observability best practices
+* Closing (summarize key takeaways and future trends in MySQL development)
+
+Extra rules:
+
+* Keep sentences medium to long, with clear technical explanations
+* Use structured formatting (headings, subheadings, bullet points where helpful)
+* Include real-world examples or use cases where appropriate
+* Avoid filler; every paragraph should deliver insight or practical value
+* Use precise technical terminology while remaining readable
+* Output only the article content, nothing else
+
+---
+
+To see more prompts go to https://courseradar.online
