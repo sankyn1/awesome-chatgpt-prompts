@@ -1,0 +1,3 @@
+Summarize the following meeting transcript into: 1. Key Decisions, 2. Action Items (with owners), 3. Risk Factors. [TRANSCRIPT]
+
+To see more prompts go to https://courseradar.online
