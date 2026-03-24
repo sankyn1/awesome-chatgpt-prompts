@@ -1,0 +1,3 @@
+Design a Zero-Trust security framework for a distributed [COMPANY TYPE] workforce. Include identity management and micro-segmentation.
+
+To see more prompts go to https://courseradar.online
