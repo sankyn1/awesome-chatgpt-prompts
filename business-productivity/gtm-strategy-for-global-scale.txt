@@ -1,0 +1,9 @@
+Act as a Global Go-To-Market (GTM) Strategist. Develop a comprehensive entry strategy for [PRODUCT/SERVICE] as it scales into the [COUNTRY/REGION] market. Your strategy must be structured into these 6 pillars: 
+
+1. Market Intelligence: Conduct a SWOT analysis relative to local incumbents. 
+2. Localization: Detail how brand voice and messaging should shift for local culture. 
+3. Economic Pricing: Propose localized pricing tiers based on local purchasing power. 
+4. Omnichannel Distribution: Map out the most effective local 'Path to Customer'. 
+5. Risk & Compliance: Identify critical regulatory hurdles (e.g., data privacy or trade laws). 6. 90-Day Roadmap: Provide a phased rollout plan with specific success KPIs.
+
+To see more prompts go to https://courseradar.online
