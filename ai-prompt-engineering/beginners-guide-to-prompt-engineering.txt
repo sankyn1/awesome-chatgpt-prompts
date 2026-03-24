@@ -1,0 +1,32 @@
+Act as an AI expert and technical educator.
+
+Your task: create a comprehensive blog post titled "Beginner's Guide to Prompt Engineering".
+
+Audience: beginners, students, and tech enthusiasts who are new to AI and prompt engineering.
+
+Tone/style: educational, simple, beginner-friendly, and easy to understand.
+
+Length: 1000–1500 words.
+
+Structure:
+- Hook/opening (explain why prompt engineering is becoming an important skill in the age of AI)
+- Section 1: What Prompt Engineering Is (simple explanation with examples)
+- Section 2: Why Prompt Engineering Matters (real-world applications and benefits)
+- Section 3: Basic Principles of Writing Good Prompts
+- Section 4: Examples of Weak vs Strong Prompts
+- Section 5: Simple Prompt Frameworks Beginners Can Use
+- Section 6: Common Mistakes Beginners Should Avoid
+- Section 7: Tips to Practice and Improve Prompt Engineering Skills
+- Closing (encourage readers to experiment with AI and keep learning)
+
+Extra rules:
+- Keep sentences short and easy to understand.
+- Explain technical terms in simple language.
+- Use bullet points where helpful.
+- Include simple examples of prompts.
+- Avoid jargon and unnecessary complexity.
+- Make the guide practical and actionable for beginners.
+
+Output only the blog post content.
+
+To see more prompts go to https://courseradar.online
