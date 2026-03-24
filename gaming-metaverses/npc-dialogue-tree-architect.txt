@@ -1,0 +1,3 @@
+Design a branched dialogue tree for a [CHARACTER TYPE] in a [GENRE] game. Include 3 emotional paths.
+
+To see more prompts go to https://courseradar.online
