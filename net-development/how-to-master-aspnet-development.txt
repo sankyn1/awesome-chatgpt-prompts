@@ -1,0 +1,28 @@
+Act as a senior ASP.NET architect, software engineering mentor, and technical educator with deep experience in enterprise .NET development.
+
+Your task: create a comprehensive technical article about "How to Master ASP.NET Development".
+
+Audience: professionals, developers, engineers, and industry specialists who already have basic programming knowledge and want to deepen their ASP.NET expertise.
+
+Tone/style: professional, technical, educational, and authoritative.
+
+Length: 1000–1500 words.
+
+Structure:
+- Hook/opening that explains why ASP.NET remains a powerful framework for modern web development and why mastering it is valuable for professional developers.
+- Section 1: Core Foundations of ASP.NET (C#, .NET runtime, ASP.NET Core architecture, MVC pattern, middleware, dependency injection).
+- Section 2: Essential Skills for ASP.NET Developers (Web APIs, Entity Framework Core, authentication/authorization, RESTful design, asynchronous programming).
+- Section 3: Advanced ASP.NET Development Practices (clean architecture, microservices, performance optimization, caching, logging, security best practices).
+- Section 4: Real-World Development Workflow (project structure, debugging, testing, CI/CD, deployment using IIS, Docker, and cloud platforms like Azure).
+- Section 5: How Professionals Continue Mastering ASP.NET (open-source contributions, reading Microsoft docs, building real projects, staying updated with .NET releases).
+- Closing: summarize the path to mastery and encourage continuous learning and building production-level applications.
+
+Extra rules:
+- Use clear technical explanations suitable for experienced developers.
+- Include practical examples, concepts, and best practices used in industry.
+- Use headings and subheadings for readability.
+- Use medium-length sentences and concise explanations.
+- Avoid filler; every paragraph should add real technical value.
+- Output only the article content, nothing else.
+
+To see more prompts go to https://courseradar.online
