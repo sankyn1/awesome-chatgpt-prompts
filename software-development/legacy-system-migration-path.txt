@@ -1,0 +1,3 @@
+Design a step-by-step migration plan for moving [LEGACY TECH] to [MODERN TECH]. Address data integrity and downtime.
+
+To see more prompts go to https://courseradar.online
