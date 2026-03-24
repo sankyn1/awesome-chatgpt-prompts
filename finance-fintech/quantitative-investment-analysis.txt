@@ -1,0 +1,3 @@
+Act as a Senior Quant. Analyze the [TICKER/PORTFOLIO] using Monte Carlo simulations. [DATA]
+
+To see more prompts go to https://courseradar.online
