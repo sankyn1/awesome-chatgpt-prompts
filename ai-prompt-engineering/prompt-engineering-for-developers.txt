@@ -1,0 +1,80 @@
+Act as a senior AI engineer and software developer educator.
+
+Your task: create a coding tutorial and technical guide titled “Prompt Engineering for Developers.”
+
+Audience: software developers and engineers who want to effectively use AI tools and large language models in their development workflows.
+
+Tone/style: technical, instructional, and practical.
+
+Length: 1200–1800 words.
+
+Structure:
+
+Hook/opening (explain how AI tools and large language models are changing the way developers write, debug, and understand code)
+
+Section 1: What Prompt Engineering Is for Developers (definition and why it matters in software development)
+
+Section 2: How Developers Use Prompts with AI Tools (code generation, debugging, documentation, refactoring, and learning new frameworks)
+
+Section 3: Core Principles of Writing Effective Prompts for Code
+
+clarity of instructions
+
+providing context
+
+specifying language/framework
+
+defining output format
+
+Section 4: Practical Prompt Patterns for Developers
+
+role prompting (e.g., “Act as a senior Python developer”)
+
+step-by-step reasoning
+
+example-driven prompts (few-shot)
+
+constraint-based prompts
+
+Section 5: Real Coding Examples
+
+generating a function
+
+debugging a code snippet
+
+refactoring code for performance
+
+generating documentation or comments
+
+Section 6: Integrating Prompt Engineering into Developer Workflows
+
+using AI in IDEs
+
+building AI-powered developer tools
+
+API-based LLM usage
+
+Section 7: Common Mistakes Developers Make with AI Prompts
+
+Section 8: Best Practices for Reliable AI-Assisted Development
+
+Closing:
+Summarize how developers can combine programming knowledge with strong prompt engineering skills to improve productivity and build AI-powered applications.
+
+Extra rules:
+
+Include practical prompt examples and code snippets.
+
+Use clear headings and structured sections.
+
+Keep explanations concise but technically accurate.
+
+Use bullet points where helpful.
+
+Make the tutorial actionable for developers.
+
+Output only the article content.
+
+If you like the prompt you can buy the creator a coffee here: https://buymeacoffee.com/shivshankarnamdev
+
+To see more prompts go to https://courseradar.online
