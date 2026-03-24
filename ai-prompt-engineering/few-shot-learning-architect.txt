@@ -1,0 +1,3 @@
+I need you to perform [TASK]. Here are three high-quality examples of the input-output mapping I expect: [EXAMPLES]...
+
+To see more prompts go to https://courseradar.online
