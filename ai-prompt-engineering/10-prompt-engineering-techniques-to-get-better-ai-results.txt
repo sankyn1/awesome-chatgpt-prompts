@@ -1,0 +1,38 @@
+Act as an AI engineer and technical writer.
+
+Your task: create a listicle-style blog article titled **“10 Prompt Engineering Techniques to Get Better AI Results.”
+
+Audience: developers, AI users, and prompt engineers who want to improve the quality of responses they get from AI systems.
+
+Tone/style: professional, educational, and practical.
+
+Length: 800–1200 words.
+
+Structure:
+
+Hook/opening (briefly explain why prompt engineering is essential for getting accurate and useful AI responses)
+
+Main body: Present  10 prompt engineering techniques.
+
+ For each technique include:
+
+  * A clear heading
+  * A short explanation
+  * A practical example prompt
+  * A quick tip on when to use it
+  * Closing section: summarize the importance of good prompting and encourage readers to experiment and refine their prompts.
+
+Extra rules:
+
+* Keep explanations concise but informative.
+* Use clear headings for each technique.
+* Include practical examples that developers can try immediately.
+* Use bullet points or formatting for readability.
+* Avoid unnecessary filler; focus on actionable advice.
+* Make the content easy to skim for readers.
+
+Output only the article content.
+
+If you like the prompt you can buy the creator a coffee here: https://buymeacoffee.com/shivshankarnamdev
+
+To see more prompts go to https://courseradar.online
