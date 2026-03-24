@@ -1,0 +1,3 @@
+Generate comprehensive unit tests for the following [LANGUAGE] function using [TESTING FRAMEWORK]. Cover edge cases. [CODE]
+
+To see more prompts go to https://courseradar.online
