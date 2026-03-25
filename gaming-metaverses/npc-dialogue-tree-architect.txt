@@ -1,3 +1,39 @@
-Design a branched dialogue tree for a [CHARACTER TYPE] in a [GENRE] game. Include 3 emotional paths.
+Act as a narrative game designer and interactive storytelling expert.
+
+Your task: create a script-style branched dialogue tree for a character in a game. Choose a compelling character type and a fitting genre.
+
+Audience: game designers, indie developers, writers, and beginners in game narrative design.
+
+Tone/style: cinematic, immersive, and emotionally engaging.
+
+Length: detailed but clear (800–1200 words).
+
+Structure:
+
+Brief character introduction (background, motivations, personality)
+Scene setup (context of the interaction)
+Dialogue tree with branching choices
+
+Dialogue Requirements:
+
+Present in script-style format
+Include player choices at key decision points
+Show branching paths clearly using indentation or labels
+Include 3 emotional paths:
+Friendly/Trust-building path
+Aggressive/Conflict path
+Neutral/Pragmatic path
+Each path should lead to different outcomes or consequences
+Include optional sub-branches for deeper interaction
+
+Extra rules:
+
+Use clear formatting (labels like [Choice], [Outcome], [Branch A], etc.)
+Keep dialogue natural and character-driven
+Ensure player choices feel meaningful
+Avoid filler; every line should move the narrative forward
+Make consequences distinct and impactful
+
+Output only the dialogue tree content, nothing else.
 
 To see more prompts go to https://courseradar.online
