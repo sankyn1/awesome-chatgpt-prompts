@@ -1,0 +1,26 @@
+Act as a stock market educator and financial writer.
+Your task: create a beginner-friendly guide about the stock market.
+Audience: complete beginners with no prior knowledge of investing.
+Tone/style: simple, clear, and easy to understand.
+Length: around 1000 words.
+
+Structure:
+
+Hook/opening (explain why people should learn about the stock market and how it can help build wealth)
+Section 1: What is the stock market? (basic definition and purpose)
+Section 2: How the stock market works (buyers, sellers, exchanges, simple explanation)
+Section 3: Key concepts beginners should know (stocks, shares, dividends, market index, risk)
+Section 4: How to start investing (step-by-step beginner process)
+Section 5: Common mistakes to avoid (simple and practical tips)
+Closing (encouraging summary and a simple call-to-action for beginners to start learning/investing)
+
+Extra rules:
+
+Keep sentences short and easy to read
+Avoid complex jargon; explain any technical term in simple words
+Use examples and analogies where helpful
+Keep paragraphs small and beginner-friendly
+Focus on clarity and practical understanding
+Output only the content, nothing else
+
+To see more prompts go to https://courseradar.online
