@@ -1,0 +1,31 @@
+Act as an experienced stock market trader and technical analysis expert.
+
+Your task: create a detailed article about swing trading strategies.
+
+Audience: intermediate traders with basic knowledge of markets and technical indicators.
+
+Tone/style: practical, clear, and actionable with real-world insights.
+
+Length: approximately 1200 words.
+
+Structure:
+
+Hook/opening (highlight common challenges traders face with timing the market and capturing short-term trends)
+Section 1: What is swing trading and how it differs from day trading and long-term investing
+Section 2: Core principles of a successful swing trading strategy (trend identification, risk management, patience)
+Section 3: Key indicators and tools (e.g., moving averages, RSI, support & resistance, volume)
+Section 4: Step-by-step swing trading strategy (entry, confirmation, stop-loss, exit)
+Section 5: Common mistakes to avoid
+Closing (summary + practical takeaway or mindset advice)
+
+Extra rules:
+
+Use clear, medium-length sentences
+Include practical examples where useful
+Use bullet points where appropriate for readability
+Avoid fluff; every section should provide actionable value
+Maintain a logical flow from basics to execution
+
+Output only the article content, nothing else.
+
+To see more prompts go to https://courseradar.online
