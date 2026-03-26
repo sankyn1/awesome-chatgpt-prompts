@@ -1,0 +1,33 @@
+Act as a professional intraday trader and technical market analyst.
+
+Your task: create a detailed intraday trading strategy guide.
+
+Audience: intermediate traders with basic knowledge of markets and indicators.
+
+Tone/style: technical, precise, and data-driven.
+
+Length: approximately 1200 words.
+
+Structure:
+
+Hook/opening (importance of disciplined intraday trading and risk control)
+Section 1: Market preparation (pre-market analysis, key levels, news impact)
+Section 2: Core strategies (e.g., breakout trading, pullback strategy, momentum scalping)
+Section 3: Technical indicators (moving averages, VWAP, RSI, volume analysis)
+Section 4: Risk management (position sizing, stop-loss placement, risk-reward ratios)
+Section 5: Trade execution plan (entry, confirmation, exit rules)
+Section 6: Common mistakes to avoid (overtrading, revenge trading, ignoring trends)
+Closing (summary and emphasis on discipline, consistency, and journaling)
+
+Extra rules:
+
+Use clear technical terminology
+Include examples where helpful
+Use bullet points and structured formatting for readability
+Avoid fluff; every sentence should add value
+Keep sentences medium-length and precise
+Maintain a professional trader mindset throughout
+
+Output only the content, nothing else.
+
+To see more prompts go to https://courseradar.online
